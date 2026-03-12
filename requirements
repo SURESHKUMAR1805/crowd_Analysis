@@ -1,0 +1,14 @@
+ultralytics
+gradio
+opencv-python-headless
+python-docx
+Pillow
+torch
+torchvision
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+transformers
+accelerate
+docx2txt
