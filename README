@@ -51,13 +51,13 @@ Log        : python-docx (.docx)
 
 ## Model Performance (V1 — 100 epochs)
 ```
-Class        AP50    Status
-ambulance    0.875   ✅ Excellent
-fighting     0.983   ✅ Perfect
-fire         0.574   ✅ Good
-smoke        0.535   ✅ Good
-weapon       0.749   ✅ Good
-mAP50        0.603   ✅ Good
+Class        AP50    
+ambulance    0.875  
+fighting     0.983   
+fire         0.774  
+smoke        0.735  
+weapon       0.749   
+mAP50        0.753   
 ```
 
 ---
